@@ -1,0 +1,27 @@
+#Main Notes
+
+-------adding new files
+-open notepad
+-add list/information
+-save as in same directory as git--> to do this click on initial commit and click "show in explorer" button, then copy the C drive directory filepath, save in this filepath(paste)
+-add description and title of change
+-commit changes
+
+-------editing existing
+-edit notepad file
+-save
+-go to git desktop and select 'changes' tab
+-check to see if changes are correct
+-commit changes---> remember to add description and title reflective of changes (don't use update for everything)
+- Remember to make similar changes if multiple-ie have spelling corrections in one commit change with description or create file with list changes if multiple and varied. (try to make like changes at same time). 
+
+------pushing to GitHub
+-when 'no local changes' click 'publish repository' 
+-will take to GitHub browser, sign in 
+-push from desktop
+-can now delete repository file from computer (in file explorer GitHub folder)
+-This is now on GitHub and can clone to replace file on computer
+
+-------PTN
+-don't ever delete the '.git' repository---> you can send the full file to others by sharing this 
+-'working tree' refers to current tree of directories which represents the current state of project
