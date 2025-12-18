@@ -22,6 +22,14 @@
 -can now delete repository file from computer (in file explorer GitHub folder)
 -This is now on GitHub and can clone to replace file on computer
 
+------additions to GitHub pushed file repos
+-add a new notepad text doc
+-insert what required
+-save in filepath
+-commit changes in desktop
+-click push origin in desktop
+-refresh GitHub to see new additions 
+
 -------PTN
 -don't ever delete the '.git' repository---> you can send the full file to others by sharing this 
 -'working tree' refers to current tree of directories which represents the current state of project
